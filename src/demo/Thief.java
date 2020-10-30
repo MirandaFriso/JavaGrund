@@ -12,7 +12,7 @@ public class Thief extends Character{
     //tjuven attackerar.
     @Override
     public void skill() {
-        System.out.println("Special skill: Critical hit.");
+        System.out.println("Special skill: Critical hit!");
     }
 }
 
